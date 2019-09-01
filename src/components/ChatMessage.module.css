@@ -1,0 +1,52 @@
+.wrapper {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.avatar {
+    width: 42px;
+    height: 42px;
+    margin-right: 22px;
+}
+
+.message_info {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 8px;
+}
+
+.from_name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.role_1 {
+    color: #c98cfd;
+}
+
+.role_2 {
+    color: #69d1ff;
+}
+
+.role_3 {
+    color: #6fe2c3;
+}
+
+.role_4 {
+    color: #fff086;
+}
+
+.role_5 {
+    color: #ff9b9b;
+}
+
+.time {
+    font-size: 10px;
+    line-height: 13px;
+    margin-left: 16px;
+}
+
+.content {
+    font-size: 14px;
+    line-height: 24px;
+}

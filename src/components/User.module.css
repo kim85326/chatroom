@@ -1,0 +1,39 @@
+.user {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    padding: 0 50px 0 30px;
+}
+
+.avatar {
+    width: 42px;
+    height: 42px;
+    margin-right: 22px;
+}
+
+.name {
+    color: #dbdbdb;
+    font-size: 18px;
+    line-height: 24px;
+    flex: 1;
+}
+
+.status {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: auto;
+}
+
+.status_0 {
+    background-color: #98d693;
+}
+
+.status_1 {
+    background-color: #d6c493;
+}
+
+.status_2 {
+    background-color: #d69393;
+}

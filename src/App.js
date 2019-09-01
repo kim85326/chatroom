@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
+import Chatroom from "./pages/Chatroom";
 
 const App = () => {
-  return (
-    <div>
-      hello chatroom
-    </div>
-  );
-}
+    return (
+        <div>
+            <Chatroom />
+        </div>
+    );
+};
 
 export default App;
